@@ -23,3 +23,5 @@ DAX for measures and KPIs
 Data Cleaning & Modeling
 Dataset Source: Kaggle
 
+# Link
+LinkedIn: https://www.linkedin.com/posts/hnin-yee-hlaing-24a723226_dataanalytics-powerbi-dax-activity-7391010871772143616-WgYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADi0K5oBWMxcy4RLgTP1AEmmPvi9I4uzVTU 
